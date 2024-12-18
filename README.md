@@ -1,6 +1,3 @@
-Here’s a draft for a GitHub README file for **MyBodySymphony.com**:  
-
-```markdown
 # My Body Symphony  
 
 Welcome to **MyBodySymphony.com**, your one-stop destination for health, wellness, and a vibrant lifestyle! This website is dedicated to helping individuals achieve optimal health through high-quality health and fitness products, along with plant-based supplements that nourish both body and mind.
@@ -71,7 +68,7 @@ We welcome contributions to make **My Body Symphony** even better!
 ## Contact Us  
 
 Have questions, feedback, or suggestions? We’d love to hear from you!  
-- Email: support@mybodysymphony.com  
+- Email: doc@mybodysymphony.com  
 - Website: [MyBodySymphony.com](https://www.mybodysymphony.com)  
 
 ## License  
@@ -81,6 +78,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 Achieve balance. Transform your health. Experience the symphony of wellness with **My Body Symphony**!  
-```  
-
-This README file provides a detailed overview while emphasizing the mission and features of MyBodySymphony.com. Let me know if you'd like to refine it further!
+``` 
